@@ -1,8 +1,3 @@
-![project Screenshot]
-![Bar Chart](std_1.PNG)
-![Pie Chart](std_2.PNG)
-![Scatter Plot](std_3.PNG)
-![Saved Chart](std_5.PNG)
 
 # Student_Marks _Analyzer
 
@@ -28,4 +23,10 @@
 
 - Python  
 - Pandas  
-- Matplotlib  
+- Matplotlib
+
+- ![project Screenshot]
+![Bar Chart](std_1.PNG)
+![Pie Chart](std_2.PNG)
+![Scatter Plot](std_3.PNG)
+![Saved Chart](std_5.PNG)
